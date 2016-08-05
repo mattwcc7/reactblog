@@ -47,7 +47,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Matt's Blog</h2>
+          <h2>Matts Blog</h2>
         </div>
         <p className="App-blogfeed">
           <BlogFeed blogs={ blogs } />
